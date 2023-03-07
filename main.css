@@ -26,3 +26,9 @@ body {
   margin-top: 150px;
  
 }
+p {
+  position: absolute;
+  right: 1200px;
+  text-align: center;
+  
+}
